@@ -1,4 +1,9 @@
 body {
+    background-image: url("/smurfs.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #6AA8CC;
   margin: 0;
   padding: 0;
   font-family: sans-serif;
